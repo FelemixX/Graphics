@@ -1,0 +1,50 @@
+C:\Users\Core i7\Desktop\Studying\Graphics\lab1\bin\Debug\lab1.exe.config
+C:\Users\Core i7\Desktop\Studying\Graphics\lab1\bin\Debug\lab1.exe
+C:\Users\Core i7\Desktop\Studying\Graphics\lab1\bin\Debug\lab1.pdb
+C:\Users\Core i7\Desktop\Studying\Graphics\lab1\obj\Debug\lab1.csprojAssemblyReference.cache
+C:\Users\Core i7\Desktop\Studying\Graphics\lab1\obj\Debug\lab1.Form1.resources
+C:\Users\Core i7\Desktop\Studying\Graphics\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\Core i7\Desktop\Studying\Graphics\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+C:\Users\Core i7\Desktop\Studying\Graphics\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\Core i7\Desktop\Studying\Graphics\lab1\obj\Debug\lab1.exe
+C:\Users\Core i7\Desktop\Studying\Graphics\lab1\obj\Debug\lab1.pdb
+C:\Users\Core i7\Desktop\Studying\Graphics\lab5\obj\Debug\lab1.csprojAssemblyReference.cache
+C:\Users\Core i7\Desktop\Studying\Graphics\lab5\obj\Debug\lab1.Form1.resources
+C:\Users\Core i7\Desktop\Studying\Graphics\lab5\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\Core i7\Desktop\Studying\Graphics\lab5\obj\Debug\lab1.csproj.GenerateResource.cache
+C:\Users\Core i7\Desktop\Studying\Graphics\lab5\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\Core i7\Desktop\Studying\Graphics\lab5\obj\Debug\lab1.exe
+C:\Users\Core i7\Desktop\Studying\Graphics\lab5\obj\Debug\lab1.pdb
+C:\Users\Core i7\Desktop\Studying\Graphics\lab5\bin\Debug\lab1.exe.config
+C:\Users\Core i7\Desktop\Studying\Graphics\lab5\bin\Debug\lab1.exe
+C:\Users\Core i7\Desktop\Studying\Graphics\lab5\bin\Debug\lab1.pdb
+D:\Все что нуно тут\Studying\Лабы\Компьютерная графика\lab5\bin\Debug\lab1.exe.config
+D:\Все что нуно тут\Studying\Лабы\Компьютерная графика\lab5\bin\Debug\lab1.exe
+D:\Все что нуно тут\Studying\Лабы\Компьютерная графика\lab5\bin\Debug\lab1.pdb
+D:\Все что нуно тут\Studying\Лабы\Компьютерная графика\lab5\obj\Debug\lab1.csprojAssemblyReference.cache
+D:\Все что нуно тут\Studying\Лабы\Компьютерная графика\lab5\obj\Debug\lab1.Properties.Resources.resources
+D:\Все что нуно тут\Studying\Лабы\Компьютерная графика\lab5\obj\Debug\lab1.csproj.GenerateResource.cache
+D:\Все что нуно тут\Studying\Лабы\Компьютерная графика\lab5\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+D:\Все что нуно тут\Studying\Лабы\Компьютерная графика\lab5\obj\Debug\lab1.exe
+D:\Все что нуно тут\Studying\Лабы\Компьютерная графика\lab5\obj\Debug\lab1.pdb
+D:\Все что нуно тут\Studying\Лабы\Компьютерная графика\lab5\obj\Debug\lab1.Form1.resources
+D:\Все что нуно тут\Studying\Лабы\Компьютерная графика\lab7\obj\Debug\lab1.csprojAssemblyReference.cache
+D:\Все что нуно тут\Studying\Лабы\Компьютерная графика\lab7\obj\Debug\lab1.Form1.resources
+D:\Все что нуно тут\Studying\Лабы\Компьютерная графика\lab7\obj\Debug\lab1.Properties.Resources.resources
+D:\Все что нуно тут\Studying\Лабы\Компьютерная графика\lab7\obj\Debug\lab1.csproj.GenerateResource.cache
+D:\Все что нуно тут\Studying\Лабы\Компьютерная графика\lab7\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+D:\Все что нуно тут\Studying\Лабы\Компьютерная графика\lab7\obj\Debug\lab1.exe
+D:\Все что нуно тут\Studying\Лабы\Компьютерная графика\lab7\obj\Debug\lab1.pdb
+D:\Все что нуно тут\Studying\Лабы\Компьютерная графика\lab7\bin\Debug\lab1.exe.config
+D:\Все что нуно тут\Studying\Лабы\Компьютерная графика\lab7\bin\Debug\lab1.exe
+D:\Все что нуно тут\Studying\Лабы\Компьютерная графика\lab7\bin\Debug\lab1.pdb
+D:\Все что нуно тут\Studying\Лабы\6 сем\Компьютерная графика\lab7\bin\Debug\lab1.exe.config
+D:\Все что нуно тут\Studying\Лабы\6 сем\Компьютерная графика\lab7\bin\Debug\lab1.exe
+D:\Все что нуно тут\Studying\Лабы\6 сем\Компьютерная графика\lab7\bin\Debug\lab1.pdb
+D:\Все что нуно тут\Studying\Лабы\6 сем\Компьютерная графика\lab7\obj\Debug\lab1.csprojAssemblyReference.cache
+D:\Все что нуно тут\Studying\Лабы\6 сем\Компьютерная графика\lab7\obj\Debug\lab1.Form1.resources
+D:\Все что нуно тут\Studying\Лабы\6 сем\Компьютерная графика\lab7\obj\Debug\lab1.Properties.Resources.resources
+D:\Все что нуно тут\Studying\Лабы\6 сем\Компьютерная графика\lab7\obj\Debug\lab1.csproj.GenerateResource.cache
+D:\Все что нуно тут\Studying\Лабы\6 сем\Компьютерная графика\lab7\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+D:\Все что нуно тут\Studying\Лабы\6 сем\Компьютерная графика\lab7\obj\Debug\lab1.exe
+D:\Все что нуно тут\Studying\Лабы\6 сем\Компьютерная графика\lab7\obj\Debug\lab1.pdb
