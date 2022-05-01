@@ -1,0 +1,21 @@
+C:\Users\Core i7\Desktop\Studying\Graphics\lab3spline\obj\Debug\lab3spline.csprojAssemblyReference.cache
+C:\Users\Core i7\Desktop\Studying\Graphics\lab3spline\obj\Debug\lab3spline.Properties.Resources.resources
+C:\Users\Core i7\Desktop\Studying\Graphics\lab3spline\obj\Debug\lab3spline.csproj.GenerateResource.cache
+C:\Users\Core i7\Desktop\Studying\Graphics\lab3spline\obj\Debug\lab3spline.csproj.CoreCompileInputs.cache
+C:\Users\Core i7\Desktop\Studying\Graphics\lab3spline\bin\Debug\lab3spline.exe.config
+C:\Users\Core i7\Desktop\Studying\Graphics\lab3spline\bin\Debug\lab3spline.exe
+C:\Users\Core i7\Desktop\Studying\Graphics\lab3spline\bin\Debug\lab3spline.pdb
+C:\Users\Core i7\Desktop\Studying\Graphics\lab3spline\obj\Debug\lab3spline.Form1.resources
+C:\Users\Core i7\Desktop\Studying\Graphics\lab3spline\obj\Debug\lab3spline.exe
+C:\Users\Core i7\Desktop\Studying\Graphics\lab3spline\obj\Debug\lab3spline.pdb
+E:\Study\3 курс\2 семестр\Компьютерная графика\Лабы\lab3spline\bin\Debug\lab3spline.exe.config
+E:\Study\3 курс\2 семестр\Компьютерная графика\Лабы\lab3spline\bin\Debug\lab3spline.exe
+E:\Study\3 курс\2 семестр\Компьютерная графика\Лабы\lab3spline\bin\Debug\lab3spline.pdb
+E:\Study\3 курс\2 семестр\Компьютерная графика\Лабы\lab3spline\obj\Debug\lab3spline.csproj.AssemblyReference.cache
+E:\Study\3 курс\2 семестр\Компьютерная графика\Лабы\lab3spline\obj\Debug\lab3spline.csproj.SuggestedBindingRedirects.cache
+E:\Study\3 курс\2 семестр\Компьютерная графика\Лабы\lab3spline\obj\Debug\lab3spline.Form1.resources
+E:\Study\3 курс\2 семестр\Компьютерная графика\Лабы\lab3spline\obj\Debug\lab3spline.Properties.Resources.resources
+E:\Study\3 курс\2 семестр\Компьютерная графика\Лабы\lab3spline\obj\Debug\lab3spline.csproj.GenerateResource.cache
+E:\Study\3 курс\2 семестр\Компьютерная графика\Лабы\lab3spline\obj\Debug\lab3spline.csproj.CoreCompileInputs.cache
+E:\Study\3 курс\2 семестр\Компьютерная графика\Лабы\lab3spline\obj\Debug\lab3spline.exe
+E:\Study\3 курс\2 семестр\Компьютерная графика\Лабы\lab3spline\obj\Debug\lab3spline.pdb
