@@ -1,0 +1,22 @@
+C:\Users\Admin\Documents\Programming\sharp\CG2_lab2\bin\Debug\CG2_lab2.exe.config
+C:\Users\Admin\Documents\Programming\sharp\CG2_lab2\bin\Debug\CG2_lab2.exe
+C:\Users\Admin\Documents\Programming\sharp\CG2_lab2\bin\Debug\CG2_lab2.pdb
+C:\Users\Admin\Documents\Programming\sharp\CG2_lab2\obj\Debug\CG2_lab2.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Programming\sharp\CG2_lab2\obj\Debug\CG2_lab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\Programming\sharp\CG2_lab2\obj\Debug\CG2_lab2.Properties.Resources.resources
+C:\Users\Admin\Documents\Programming\sharp\CG2_lab2\obj\Debug\CG2_lab2.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Programming\sharp\CG2_lab2\obj\Debug\CG2_lab2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Programming\sharp\CG2_lab2\obj\Debug\CG2_lab2.exe
+C:\Users\Admin\Documents\Programming\sharp\CG2_lab2\obj\Debug\CG2_lab2.pdb
+C:\Users\Admin\Documents\Programming\sharp\CG2_lab2\obj\Debug\CG2_lab2.Form1.resources
+E:\Study\3 курс\2 семестр\Компьютерная графика\Лабы\CG2_lab2\bin\Debug\CG2_lab2.exe.config
+E:\Study\3 курс\2 семестр\Компьютерная графика\Лабы\CG2_lab2\bin\Debug\CG2_lab2.exe
+E:\Study\3 курс\2 семестр\Компьютерная графика\Лабы\CG2_lab2\bin\Debug\CG2_lab2.pdb
+E:\Study\3 курс\2 семестр\Компьютерная графика\Лабы\CG2_lab2\obj\Debug\CG2_lab2.csproj.AssemblyReference.cache
+E:\Study\3 курс\2 семестр\Компьютерная графика\Лабы\CG2_lab2\obj\Debug\CG2_lab2.csproj.SuggestedBindingRedirects.cache
+E:\Study\3 курс\2 семестр\Компьютерная графика\Лабы\CG2_lab2\obj\Debug\CG2_lab2.Form1.resources
+E:\Study\3 курс\2 семестр\Компьютерная графика\Лабы\CG2_lab2\obj\Debug\CG2_lab2.Properties.Resources.resources
+E:\Study\3 курс\2 семестр\Компьютерная графика\Лабы\CG2_lab2\obj\Debug\CG2_lab2.csproj.GenerateResource.cache
+E:\Study\3 курс\2 семестр\Компьютерная графика\Лабы\CG2_lab2\obj\Debug\CG2_lab2.csproj.CoreCompileInputs.cache
+E:\Study\3 курс\2 семестр\Компьютерная графика\Лабы\CG2_lab2\obj\Debug\CG2_lab2.exe
+E:\Study\3 курс\2 семестр\Компьютерная графика\Лабы\CG2_lab2\obj\Debug\CG2_lab2.pdb
